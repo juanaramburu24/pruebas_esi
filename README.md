@@ -1,2 +1,2 @@
 # pruebas_esi
-clase de prog
+clase prog
